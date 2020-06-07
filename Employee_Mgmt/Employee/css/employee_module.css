@@ -1,0 +1,25 @@
+body
+{
+	background-color: #C0C0C0;
+}
+
+ul {
+    list-style-type: none;
+    line-height:380%;
+   }
+ ul>li,a
+ {
+
+ 	font-family: "Times New Roman", Times, serif;
+ 	color : #A9A9A9;
+
+ }  
+ ul>li span.glyphicon
+ {
+ 	width:16px;
+ }
+ li a:hover
+ {
+ 	color : #ddd;
+ 	text-decoration : none;
+ }
